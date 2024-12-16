@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/52eb48f5-5654-4e79-b8aa-b0f39830b696)# CSAFinalProject
+CSAFinalProject
 Computer Science A Final Project Sem 1 - Museum 
 
 the presentation link for the stuff about it: 
